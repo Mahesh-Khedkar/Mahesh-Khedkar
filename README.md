@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 <!--   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>  -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkokane01&show_icons=true&locale=en&layout=compact" alt="gauravkokane01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahesh-Khedkar&show_icons=true&locale=en&layout=compact" alt="Mahesh-Khedkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkokane01&show_icons=true&locale=en" alt="gauravkokane01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahesh-Khedkar&show_icons=true&locale=en" alt="Mahesh-Khedkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkokane01&" alt="gauravkokane01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-Khedkar&" alt="Mahesh-Khedkar" /></p>
